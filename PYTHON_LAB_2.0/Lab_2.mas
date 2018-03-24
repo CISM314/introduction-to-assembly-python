@@ -1,0 +1,10 @@
+load x
+add y
+subt z
+store w
+output
+halt
+x, dec 25
+y, dec 44
+z, dec 22
+w, dec 0
